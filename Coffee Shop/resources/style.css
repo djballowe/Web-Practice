@@ -1,0 +1,17 @@
+.body {
+    background-color: black;
+    color: seashell;
+    opacity: .9;
+    font-family: Helvetica;
+}
+.nav img {
+    height: 50px;
+    width: auto;
+    margin-left: 10px;
+}
+
+.listwhole {
+    text-decoration: underline;
+    font-size: 22px;
+}
+
